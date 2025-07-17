@@ -32,7 +32,7 @@ def invalid_values():
         print("Invalid value!")
     else:
         if int(i) not in range(1, 100):
-            print("Please insert a number between 1 and 100!")
+            print("Please insert a number between 1 and 99!")
 
 
 # Function for values close to the number that needs to be guessed.
