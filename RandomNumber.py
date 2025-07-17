@@ -3,14 +3,14 @@ Filename: RandomNumber
 File-type: .py
 Author: Andrei Alexandru
 Date: 13.06.2022
-About: A program that uses random module to generate a number in range 1 to 100 that asks the user to guess the
+About: A program that uses random module to generate a number in range 1 to 99 that asks the user to guess the
        number.
 """
 
 # Importing random module.
 import random
 
-# List in range 1-100
+# List in range 1-99
 n_list = list(range(1, 100))
 # List that stores input numbers as integers
 number = []
